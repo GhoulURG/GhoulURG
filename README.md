@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there I am Jacob 👋
 
+I am a junior at the University of Rio Grande working on a Bachelor's Degree in Computer Science.
 <!--
 **GhoulURG/GhoulURG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
